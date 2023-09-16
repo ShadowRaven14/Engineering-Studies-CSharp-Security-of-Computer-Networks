@@ -1,0 +1,30 @@
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.csproj.AssemblyReference.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\MainWindow.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\App.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3_MarkupCompile.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3_MarkupCompile.lref
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\bin\Debug\PS3.exe.config
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\bin\Debug\PS3.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\bin\Debug\PS3.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\MainWindow.baml
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.g.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.Properties.Resources.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.csproj.GenerateResource.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\PS3v2\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.pdb
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\bin\Debug\PS3.exe.config
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\bin\Debug\PS3.exe
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\bin\Debug\PS3.pdb
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3_MarkupCompile.cache
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3_MarkupCompile.lref
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.g.resources
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.Properties.Resources.resources
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.exe
+C:\Users\Admin\source\repos\BSK-PS3-WPF\PS3\PS3\obj\Debug\PS3.pdb

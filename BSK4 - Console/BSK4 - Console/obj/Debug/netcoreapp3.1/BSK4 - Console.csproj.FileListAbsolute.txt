@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\bin\Debug\netcoreapp3.1\BSK4 - Console.exe
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\bin\Debug\netcoreapp3.1\BSK4 - Console.deps.json
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\bin\Debug\netcoreapp3.1\BSK4 - Console.runtimeconfig.json
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\bin\Debug\netcoreapp3.1\BSK4 - Console.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\bin\Debug\netcoreapp3.1\BSK4 - Console.dll
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\bin\Debug\netcoreapp3.1\BSK4 - Console.pdb
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.dll
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.pdb
+C:\Users\Admin\source\repos\BSK4 - Console\BSK4 - Console\obj\Debug\netcoreapp3.1\BSK4 - Console.genruntimeconfig.cache
