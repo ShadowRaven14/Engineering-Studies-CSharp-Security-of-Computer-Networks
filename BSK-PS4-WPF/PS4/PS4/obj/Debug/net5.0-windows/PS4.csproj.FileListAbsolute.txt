@@ -1,0 +1,88 @@
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.deps.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.dev.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.AssemblyReference.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.lref
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.g.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v3\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.cache
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.lref
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.dll
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.pdb
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.exe
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.deps.json
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.json
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.dll
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.pdb
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.g.resources
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.genruntimeconfig.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.deps.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.dev.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\bin\Debug\net5.0-windows\PS4.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.AssemblyReference.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.lref
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.g.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v4\BSK-PS4-WPF\PS4\PS4\obj\Debug\net5.0-windows\PS4.genruntimeconfig.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\PS4.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\PS4.deps.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\PS4.runtimeconfig.dev.json
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\bin\Debug\net5.0-windows\PS4.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.AssemblyReference.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4_MarkupCompile.lref
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.g.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\ref\PS4.dll
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\4v6\BSK-PS4-WPF-57d447a1a00667711ebd9aa74bdc7433ad5641ee\PS4\PS4\obj\Debug\net5.0-windows\PS4.genruntimeconfig.cache
